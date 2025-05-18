@@ -1,0 +1,13 @@
+{
+    "name": "NRG",
+    "symbol": "NRG",
+    "address": "CBTuVEM1Z5z5ddfQVEGAAHPN1ckj6j97zHvKtrc78suj",
+    "decimals": 9,
+    "chainId": 101,
+    "logoURI": "https://github.com/NeurogenAI2025/neurogenai2025.github.io/raw/main/logo.png",
+    "tags": [
+        "utility-token",
+        "solana",
+        "community"
+    ]
+}
