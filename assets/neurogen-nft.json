@@ -1,1 +1,25 @@
+{
+  "name": "NeuroGen",
+  "symbol": "NRG",
+  "description": "Official NeuroGen Token – NGR Prediction Symbols and Chatbot AI",
+  "seller_fee_basis_points": 500,
+  "image": "https://neurogenai2025.github.io/assets/NeuroGen.png",
+  "external_url": "https://neurogenai2025.github.io",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://neurogenai2025.github.io/assets/NeuroGen.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4228xEgHJf4cVEVh36ytL51B45ePcveakDTTqv8E6Ukg",
+        "share": 100
+      }
+    ]
+  }
+}
 
