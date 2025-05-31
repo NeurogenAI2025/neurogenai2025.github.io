@@ -1,22 +1,24 @@
 {
-  "name":"NeuroGen Genesis #1",
-  "symbol":"NRG",
-  "description": "NeuroGen Official Token - NGR Prediction Symbols and Chatbot AI And A NRGSwap"
-  "seller_fee_basis_points":500,
-  "image":"https://neurogenai2025.github.io/assets/NeuroGen.png",
-  "external_url":"https://neurogenai2025.github.io",
-  "attributes":[],
-  "properties":{
-    "files":[
+  "name": "NeuroGen Genesis #1",
+  "symbol": "NRG",
+  "description": "NeuroGen Official Token - NGR Prediction Symbols and Chatbot AI And A NRGSwap",
+  "seller_fee_basis_points": 500,
+  "image": "https://neurogenai2025.github.io/assets/NeuroGen.png",
+  "external_url": "https://neurogenai2025.github.io",
+  "attributes": [],
+  "properties": {
+    "files": [
       {
-        "uri":"https://neurogenai2025.github.io/assets/NeuroGen.png",
-        "type":"image/png"
+        "uri": "https://neurogenai2025.github.io/assets/NeuroGen.png",
+        "type": "image/png"
       }
     ],
-    "category":"image",
+    "category": "image",
     "creators": [
-  {
-    "address": "4228xEgHJf4cVEVh36ytL51B45ePcveakDTTqv8E6Ukg",
-    "share": 100
+      {
+        "address": "4228xEgHJf4cVEVh36ytL51B45ePcveakDTTqv8E6Ukg",
+        "share": 100
+      }
+    ]
   }
-]
+}
