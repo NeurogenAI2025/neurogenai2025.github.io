@@ -1,0 +1,12 @@
+{
+    "name": "NeuroGen Token",
+    "symbol": "NRG",
+    "description": "The official utility token of the NeuroGen AI ecosystem.",
+    "image": "https://raw.githubusercontent.com/NeurogenAI2025/neurogenai2025.github.io/main/assets/NeuroGen.png",
+    "extensions": {
+        "website": "https://neurogenai2025.github.io",
+        "twitter": "https://x.com/NeuroGenAI2025",
+        "telegram": "https://t.me/NeuroGenAI",
+        "github": "https://github.com/NeurogenAI2025"
+    }
+}
